@@ -125,3 +125,6 @@ jupyter notebook
 //All training datasets will need to be placed in the "finetune-gpt2xl" folder (it will be created after you run the test finetune code)
 
 
+//example of dataset code 'FIMmacroSoLv2'
+https://mega.nz/file/g88BUaxL#lXwsl1Pz6buHsls3JItcmLVGJg8-bIKG2VK3wtsg7LU
+
